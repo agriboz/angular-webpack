@@ -1,7 +1,7 @@
 {
   "name": "angular",
   "version": "1.0.0",
-  "description": "",
+  "description": "Angular App with webpack",
   "main": "index.js",
   "devDependencies": {
     "angular": "^1.4.7",
